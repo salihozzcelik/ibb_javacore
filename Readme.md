@@ -18,6 +18,8 @@ git push u- origin master
 
 ```sh
 
+javada her biten kelime ; ile biter 
+
 ```
 ___
 
