@@ -1,6 +1,6 @@
 package com.salihozcelik._1_part_javatypes;
 
-public class _03_JavaPrimitivesTypes {
+public class _03_JavaPrimitiveTypes {
 
     public static void main(String[] args) {
 

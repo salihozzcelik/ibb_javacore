@@ -1,6 +1,6 @@
 package com.salihozcelik._1_part_javatypes;
 
-public class _04_Operators {
+public class _05_Operators {
     public static void main(String[] args) {
         int number1 = 5, number2 = 4;
         int addition = number1 + number2;
