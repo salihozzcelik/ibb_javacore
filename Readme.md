@@ -23,14 +23,14 @@ javada her biten kelime ; ile biter
 ```
 ___
 
-## Java Core
+## Java Core (primitive types)
 
 ```sh
 
 ```
 ___
 
-## Java Core
+## Java Core ( data types)
 
 ```sh
 
