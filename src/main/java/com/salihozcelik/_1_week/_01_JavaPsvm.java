@@ -1,4 +1,4 @@
-package com.salihozcelik._1_part_javatypes;
+package com.salihozcelik._1_week;
 
 // single comment tek satırlık yorumlarım burada
 

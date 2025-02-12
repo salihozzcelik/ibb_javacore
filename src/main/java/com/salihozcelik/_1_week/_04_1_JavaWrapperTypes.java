@@ -1,0 +1,37 @@
+package com.salihozcelik._1_week;
+
+public class _04_1_JavaWrapperTypes {
+
+    public static void main(String[] args) {
+
+        // PRIMITIVE TYPE
+        byte primitiveType = 127;
+        // primitiveType = null; değer alamaz
+        System.out.println(primitiveType);
+        short primitiveTypeShort = 32767;
+        int primitiveTypeInt = 2147483647;
+        long primitiveTypeLong = 9223372036854775807L;
+
+        float primitiveTypeFloat=14.23f;
+        double primitiveTypeDouble=14.23;
+
+        boolean primitiveTypeBoolean=true;
+        char primitiveTypeChar='a';
+
+        // WRAPPER TYPES
+        // Primitive ve Wrapper Type arasındaki farklar?
+
+        Byte wrapperType = 127;
+        wrapperType = null; // wrapper class null değer alabilir.
+        System.out.println(wrapperType);
+        Short wrapperTypeShort = 32767;
+        Integer wrapperTypeInt = 2147483647;
+        Long wrapperTypeLong = 9223372036854775807L;
+
+        Float wrapperTypeFloat=14.23f;
+        Double wrapperTypeDouble=14.23;
+
+        Boolean wrapperTypeBoolean=true;
+        Character wrapperTypeChar='a';
+    }
+}

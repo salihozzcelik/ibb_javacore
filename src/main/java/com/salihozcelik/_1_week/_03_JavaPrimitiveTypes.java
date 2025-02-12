@@ -1,4 +1,4 @@
-package com.salihozcelik._1_part_javatypes;
+package com.salihozcelik._1_week;
 
 public class _03_JavaPrimitiveTypes {
 
