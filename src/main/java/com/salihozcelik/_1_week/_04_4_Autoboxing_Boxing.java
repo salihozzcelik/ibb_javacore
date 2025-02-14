@@ -6,6 +6,7 @@ public class _04_4_Autoboxing_Boxing {
         // Autoboxing: Primivite => Wrapper type dönüştürmek
         int primitiveValue = 100;
         Integer wrapperValue = primitiveValue; // Autoboxing
+        // wrapperValue=null;
         System.out.println("primivite type: " + primitiveValue+" wrapper type: "+wrapperValue);
 
         // unboxing : wrapper type => primitive type dönüştürmek
