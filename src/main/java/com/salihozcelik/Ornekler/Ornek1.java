@@ -2,7 +2,7 @@ package com.salihozcelik.Ornekler;
 
 import java.util.Scanner;
 
-public class Ornek1 {
+public class  Ornek1 {
     public static void main(String[] args) {
         // Değişkenleri double olarak tanımlayalım
         double a, b, x;
