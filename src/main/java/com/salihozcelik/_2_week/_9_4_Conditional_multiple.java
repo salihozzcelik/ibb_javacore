@@ -1,6 +1,6 @@
 package com.salihozcelik._2_week;
 
-public class _9_2_Conditional_multiple {
+public class _9_4_Conditional_multiple {
     public static void main(String[] args) {
         int number = -5;
         if (number == 1) {
