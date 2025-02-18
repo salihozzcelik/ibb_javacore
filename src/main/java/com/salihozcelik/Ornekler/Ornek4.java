@@ -2,12 +2,16 @@ package com.salihozcelik.Ornekler;
 
 import java.util.Scanner;
 
-// Kullanıcının Verdiği pozitif bir sayının Çift sayı mi? Yoksa Tek Sayı mi ? olduğunu hesaplayan Algoritma ?
+// Kullanıcının Verdiği pozitif bir sayının Çift sayı mı? Yoksa Tek Sayı mı? olduğunu hesaplayan Algoritma
+
 public class Ornek4 {
     public static void main(String[] args) {
-        Scanner kullanicisayi=new Scanner(System.in);
+        Scanner kullanicisayi = new Scanner(System.in);
+
+        // Kullanıcıdan pozitif bir sayı al
         System.out.print("Pozitif bir sayı girin: ");
         int sayi = kullanicisayi.nextInt();
+
         // Sayının pozitif olup olmadığını kontrol et
         if (sayi <= 0) {
             System.out.println("Lütfen pozitif bir sayı girin!");
@@ -22,6 +26,5 @@ public class Ornek4 {
 
         // Scanner nesnesini kapat
         kullanicisayi.close();
-
     }
 }
