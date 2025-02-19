@@ -84,7 +84,7 @@ public class _12_1_String1 {
         String dataToString2 = stringBuffer.toString();
         System.out.println(dataToString2);
 
-        // Hash code
+        // Hash code her bir nesnenin kendisine ait parmak izi
         System.out.println(vocabulary1.hashCode());
         System.out.println(vocabulary2.hashCode());
         System.out.println(vocabulary3.hashCode());
